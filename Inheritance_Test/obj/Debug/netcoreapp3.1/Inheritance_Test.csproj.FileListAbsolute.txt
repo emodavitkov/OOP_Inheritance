@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\bin\Debug\netcoreapp3.1\Inheritance_Test.exe
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\bin\Debug\netcoreapp3.1\Inheritance_Test.deps.json
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\bin\Debug\netcoreapp3.1\Inheritance_Test.runtimeconfig.json
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\bin\Debug\netcoreapp3.1\Inheritance_Test.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\bin\Debug\netcoreapp3.1\Inheritance_Test.dll
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\bin\Debug\netcoreapp3.1\Inheritance_Test.pdb
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\obj\Debug\netcoreapp3.1\Inheritance_Test.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\obj\Debug\netcoreapp3.1\Inheritance_Test.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\obj\Debug\netcoreapp3.1\Inheritance_Test.AssemblyInfo.cs
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\obj\Debug\netcoreapp3.1\Inheritance_Test.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\obj\Debug\netcoreapp3.1\Inheritance_Test.dll
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\obj\Debug\netcoreapp3.1\Inheritance_Test.pdb
+C:\Users\A474627\source\repos\OOP_Inheritance\Inheritance_Test\obj\Debug\netcoreapp3.1\Inheritance_Test.genruntimeconfig.cache
