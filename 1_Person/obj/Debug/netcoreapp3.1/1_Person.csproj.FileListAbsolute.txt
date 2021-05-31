@@ -1,0 +1,13 @@
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\bin\Debug\netcoreapp3.1\1_Person.exe
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\bin\Debug\netcoreapp3.1\1_Person.deps.json
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\bin\Debug\netcoreapp3.1\1_Person.runtimeconfig.json
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\bin\Debug\netcoreapp3.1\1_Person.runtimeconfig.dev.json
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\bin\Debug\netcoreapp3.1\1_Person.dll
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\bin\Debug\netcoreapp3.1\1_Person.pdb
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\obj\Debug\netcoreapp3.1\1_Person.csprojAssemblyReference.cache
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\obj\Debug\netcoreapp3.1\1_Person.AssemblyInfoInputs.cache
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\obj\Debug\netcoreapp3.1\1_Person.AssemblyInfo.cs
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\obj\Debug\netcoreapp3.1\1_Person.csproj.CoreCompileInputs.cache
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\obj\Debug\netcoreapp3.1\1_Person.dll
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\obj\Debug\netcoreapp3.1\1_Person.pdb
+C:\Users\A474627\source\repos\OOP_Inheritance\1_Person\obj\Debug\netcoreapp3.1\1_Person.genruntimeconfig.cache
